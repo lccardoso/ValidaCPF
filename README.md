@@ -1,2 +1,2 @@
 # ValidaCPF
-Cógigo para Validação de CPF
+Código para Validação de CPF
